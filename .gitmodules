@@ -1,0 +1,3 @@
+[submodule "libliftoff"]
+	path = libliftoff
+	url = https://gitlab.freedesktop.org/emersion/libliftoff.git

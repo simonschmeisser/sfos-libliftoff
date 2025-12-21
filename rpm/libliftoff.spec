@@ -8,7 +8,7 @@ URL:            https://gitlab.freedesktop.org/emersion/libliftoff
 Source0:        %{url}/-/archive/v%{version}/%{name}-v%{version}.tar.gz
 
 BuildRequires:  meson >= 0.52.0
-BuildRequires:  ninja-build
+BuildRequires:  ninja
 BuildRequires:  gcc
 BuildRequires:  pkgconfig(libdrm) >= 2.4.108
 

@@ -5,7 +5,7 @@ Summary:        Lightweight KMS plane library
 
 License:        MIT
 URL:            https://gitlab.freedesktop.org/emersion/libliftoff
-Source0:        %{url}/-/archive/v%{version}/%{name}-v%{version}.tar.gz
+Source0:        %{name}-%{version}.tar.gz
 
 BuildRequires:  meson >= 0.52.0
 BuildRequires:  ninja

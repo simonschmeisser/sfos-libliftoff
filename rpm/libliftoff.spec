@@ -29,7 +29,7 @@ developing applications that use %{name}.
 
 
 %prep
-%autosetup -p1 -n %{name}-v%{version}
+%autosetup -p1 -n %{name}-%{version}/%{name}
 
 
 %build
